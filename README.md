@@ -1,4 +1,5 @@
 # API Test Suite
+![Tests](https://github.com/fajwaparveen/api-test-suite/actions/workflows/tests.yml/badge.svg)
 
 Automated API tests written with Python, Pytest and requests
 
